@@ -1,6 +1,2 @@
-﻿11111
-Git is a distributed version control system.
-Git is free software.
-add content on dev
-creating a new branch is quick & simple.
-createing a new branch is quick and simple.
+﻿aj, how are you ?
+beijing, why are you so busy ?
